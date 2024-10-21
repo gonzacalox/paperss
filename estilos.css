@@ -1,0 +1,29 @@
+body{margin: 0;
+padding: 0%;
+width: 1200px;
+background: #67be67;
+float:right;}
+
+header{margin: 0;
+padding:0;
+float:inline-start;
+border: 1px solid;}
+
+nav img{height: 10em;} 
+
+p{font-size:x-large;
+    text-align: center;
+}
+
+h1{font-size: 90px;
+    font-weight: 300;
+    text-align: center;
+color: #000000;}
+
+h2{text-align: right;}
+
+img{width: max-content;
+display: flex;
+box-sizing: content-box;
+float:inline-start;}
+
